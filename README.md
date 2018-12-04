@@ -9,6 +9,6 @@ This GBC reminded me of a tumble dryer when I first saw it operating in stand-al
 <P>Instructions: https://github.com/rykfield/REF04-Tumble-Dryer/raw/master/REF04%20-%20Tumble%20Dryer.pdf
 <P>Parts List: https://github.com/rykfield/REF04-Tumble-Dryer/raw/master/REF04%20-%20Tumble%20Dryer.xml
 
-<P><a href="https://github.com/rykfield/REF00-Module-Overview">All modules and instructions</a>
+<P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
 <P>You might also like The Great Ball Of China: https://www.youtube.com/watch?v=Vlvy_arx3Xg
