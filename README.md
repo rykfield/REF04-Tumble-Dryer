@@ -6,8 +6,8 @@
 This GBC reminded me of a tumble dryer when I first saw it operating in stand-alone, recycling mode, thus the name.
 
 <P>Video: https://www.youtube.com/watch?v=TX7Ino3nCJc
-<BR>Instructions: RAW_INSTRUCTION_URL
-<BR>Parts List: RAW_XML_URL
+<BR>Instructions: RAW_INSTRUCTION_URL - coming shortly
+<BR>Parts List: RAW_XML_URL - coming shortly
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview">All modules and instructions</a>
 
